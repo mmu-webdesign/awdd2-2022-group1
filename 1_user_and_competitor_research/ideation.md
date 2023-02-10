@@ -10,7 +10,7 @@ Put your media in the `sp1-media` folder.
 
 Embed the images in the markdown file using either of these methods.
 
-<img src="sp1-media/octocat.png" alt="Octocat" title="something">
+<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">
 
 ```
 <img src="sp1-media/octocat.png" alt="Octocat" title="something">
