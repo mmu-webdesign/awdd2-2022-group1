@@ -1,16 +1,16 @@
-# Level 5 Portfolio Repository for Group [x]
+# Level 5 Portfolio Repository for Group One
 
 <!-- Complete these first two sections. -->
 
-## Your Team number and name
+Group One
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- Leon Haffie-Hobday, [20049897@stu.mmu.ac.uk](mailto:20049897@stu.mmu.ac.uk)
+- Jack Forster, [14058788@stu.mmu.ac.uk](mailto:14058788@stu.mmu.ac.uk)
+- Sam Harding, [20025943@stu.mmu.ac.uk](mailto:20025943@stu.mmu.ac.uk)
+- Sam Snape, [20036265@stu.mmu.ac.uk](mailto:20036265@stu.mmu.ac.uk)
+
 
 ## TL;DR Assessment overview
 
