@@ -9,10 +9,9 @@ Has it helped you define you project? Explore a variety of ideas in a short time
 Put your media in the `sp1-media` folder.
 
 Embed the images in the markdown file using either of these methods.
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|
+| Leon   | Jack         | Sam H | Sam S |
+| :-------------: |:-------------:| :-----:|:-------:|
+|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|
 
 ```
 <img src="sp1-media/octocat.png" alt="Octocat" title="something">
