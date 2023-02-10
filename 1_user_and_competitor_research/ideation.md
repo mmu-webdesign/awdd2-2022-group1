@@ -10,7 +10,6 @@ Put your media in the `sp1-media` folder.
 We began by partaking in a self-hosted crazy 8s session to find a number of ideas for the 'Guide to' concept. 
 In 8 minutes, we wrote 8 ideas on a sheet of paper, then swapped between us, each giving a vote in the form of a coloured dot on the idea we liked the most from each sheet.
 
-Embed the images in the markdown file using either of these methods.
 | Leon   | Jack         | Sam H | Sam S |
 | :-------------: |:-------------:| :-----:|:-------:|
 |<img src="sp1-media/img4.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img1.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img2.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|<img src="sp1-media/img3.jpg" alt="Crazy 8s output" title="Crazy 8s session outputs">|
