@@ -49,6 +49,55 @@
   - Wants affordable fashion.
   - Wants to keep up to date with Fashion.
 
+- Name: Anna
+- Age: 20
+- Occupation: Student/Civil Engineer
+- Description/Quote: "Sustainable is the future, fast fashion is killing our planet"
+- Likes:
+-   Vinted/Depop
+-   Cooking
+-   Painting
+-   Laughing
+- Dislikes
+-   People that think they're cool
+-   Oversharing
+-   People that are closed off
+-   Worcester and BBQ sauce
+- Wants and needs
+-   To feel validated and appreciated
+-   To be successful
+
+- Name: Isher
+- Age: 21
+- Occupation: Student/Civil Engineer
+- Description/Quote: "I want people to think I'm cool"
+- Likes:
+-   Football
+-   Girls
+-   Roads
+-   Validation
+- Dislikes:
+-   Canals
+-   Fast fashion
+-   Being out of fashion
+
+- Name: Caitlin
+- Age: 20
+- Occupation: Journalism student
+- Description/Quote: "The trend needs to go towards sustainability"
+- Likes:
+-    Trends
+-    Charity
+-    Musicians
+- Dislikes
+-    Dishonesty
+-    'Nike boys'
+-    Throwing clothes away if they're out of fashion
+-    Leggings
+- Wants/needs:
+- Somewhere to find new fashion trends that can be found in charity shops
+- New ideas for what to wear
+- 
 ## Profiles
 
 - Name
