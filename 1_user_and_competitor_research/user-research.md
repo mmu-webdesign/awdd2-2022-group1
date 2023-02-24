@@ -48,7 +48,7 @@
   - Look good and impress people in Manchester.
   - Wants affordable fashion.
   - Wants to keep up to date with Fashion.
-
+- - - 
 - Name: Anna
 - Age: 20
 - Occupation: Student/Civil Engineer
@@ -66,7 +66,7 @@
 - Wants and needs
 -   To feel validated and appreciated
 -   To be successful
-
+- - - 
 - Name: Isher
 - Age: 21
 - Occupation: Student/Civil Engineer
@@ -80,7 +80,7 @@
 -   Canals
 -   Fast fashion
 -   Being out of fashion
-
+- - - 
 - Name: Caitlin
 - Age: 20
 - Occupation: Journalism student
@@ -97,7 +97,7 @@
 - Wants/needs:
 - Somewhere to find new fashion trends that can be found in charity shops
 - New ideas for what to wear
-- 
+- - - 
 ## Profiles
 
 - Name
