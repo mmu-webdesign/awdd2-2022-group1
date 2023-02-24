@@ -1,9 +1,4 @@
 # User Research
-
-## Summary
-
-**Word count** provide a summary (300 word maximum) of your findings.
-
 ---
 - Name: Matt
 - Age: 29
@@ -100,16 +95,6 @@
   - Somewhere to find new fashion trends that can be found in charity shops
   - New ideas for what to wear
 - - - 
-## Profiles
-
-- Name
-
-- Age
-
-- Occupation
-
-- Description or quote
-
 - Likes
 
 - Dislikes
