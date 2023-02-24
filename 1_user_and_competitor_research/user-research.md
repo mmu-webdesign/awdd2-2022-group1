@@ -80,6 +80,8 @@
   -   Canals
   -   Fast fashion
   -   Being out of fashion
+- Wants/needs:
+  - To feel validated
 - - - 
 - Name: Caitlin
 - Age: 20
