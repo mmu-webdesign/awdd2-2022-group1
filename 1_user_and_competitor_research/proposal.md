@@ -17,6 +17,7 @@ Objectives -
 • To produce an intuitive and effective website - Need to change 
 • To showcase Fallowfield Fashion
 • To provide students with where to find the latest fashion trends.
+• To generate affiliate links with influencers and stores
 
 Goals
 
