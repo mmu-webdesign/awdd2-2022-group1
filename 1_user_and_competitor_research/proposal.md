@@ -13,6 +13,13 @@ The project will provide a website and forum for new and current university stud
 
 _List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
 
+Objectives - 
+• To produce an intuitive and effective website - Need to change 
+• To showcase Fallowfield Fashion
+• To provide students with where to find the latest fashion trends.
+
+Goals
+
 •	What’s fashionable in Fallowfield?
 
 •	Where to buy the clothes featured on the website?
