@@ -6,7 +6,7 @@ Add your initial site plan for SP2, and any further revisions for SP5. Include c
 
 ## Original Site Plan
 
-<img src="sp2-media/siteplan.jpg" alt="Persona One" width="1000">
+<img src="sp2-media/Siteplan.jpg" alt="Persona One" width="1000">
 
 ### Commentary
 You have established this architecture following the card sort and tree testing. Explain the architecture that we now see.
