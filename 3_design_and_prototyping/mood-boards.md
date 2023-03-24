@@ -20,10 +20,13 @@ The rounded fonts were light and supposed to represent the fun brand we aim to b
 
 ## Moodboard Two
 
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
+<img src="sp3-media/Moddboard Pic.png" alt="Team Member One" width="1000">
 
 ### Name of team member
 Explain how your personal influences and inspirations for this moodboard.
+
+Sam Snape -
+
 
 ---
 
