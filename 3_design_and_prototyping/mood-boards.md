@@ -46,15 +46,6 @@ Explain how your personal influences and inspirations for this moodboard.
 I took inspiration from well known student fashion brands such as Carhartt, Nike etc. I've opted for a variety of colours however they are all fairly light to enable the outfits to take the centre of attention. 
 ---
 
-## Moodboard Five
-
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
-
-### Name of team member
-Explain how your personal influences and inspirations for this moodboard.
-
----
-
 ## Team Moodboard
 
 <img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
