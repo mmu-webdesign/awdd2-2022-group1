@@ -20,7 +20,7 @@ The rounded fonts were light and supposed to represent the fun brand we aim to b
 
 ## Moodboard Two
 
-<img src="sp3-media/Moddboard Pic.png" alt="Team Member One" width="1000">
+<img src="sp3-media/Moddboard Pic.png" alt="Team Member SS" width="1000">
 
 ### Sam Snape
 I took inspiration from other famous related fashion websites, such as Vogue, Asos…etc. I also like the the Simplistic look, using black, white and neutral colours. It allows the the content of the website to stand out, and focuses the attention of the user on the featured content.
@@ -48,7 +48,7 @@ I took inspiration from well known student fashion brands such as Carhartt, Nike
 
 ## Team Moodboard
 
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
+<img src="sp3-media/Group Moodbard.png" alt="Team Member One" width="1000">
 
 ### Name of team member
 Explain how you combined your influences and inspirations to create a group vision through this moodboard.
