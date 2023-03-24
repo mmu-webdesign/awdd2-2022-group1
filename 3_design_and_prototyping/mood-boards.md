@@ -43,7 +43,8 @@ Explain how your personal influences and inspirations for this moodboard.
 
 ### Name of team member
 Explain how your personal influences and inspirations for this moodboard.
-
+Sam Harding
+I took inspiration from well known student fashion brands such as Carhartt, Nike etc. I've opted for a variety of colours however they are all fairly light to enable the outfits to take the centre of attention. 
 ---
 
 ## Moodboard Five
