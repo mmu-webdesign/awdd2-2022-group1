@@ -26,14 +26,6 @@ The rounded fonts were light and supposed to represent the fun brand we aim to b
 I took inspiration from other famous related fashion websites, such as Vogue, Asos…etc. I also like the the Simplistic look, using black, white and neutral colours. It allows the the content of the website to stand out, and focuses the attention of the user on the featured content.
 
 
----
-
-## Moodboard Three
-
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
-
-### Name of team member
-Explain how your personal influences and inspirations for this moodboard.
 
 ---
 
@@ -42,8 +34,8 @@ Explain how your personal influences and inspirations for this moodboard.
 <img src="sp3-media/MoodboardSH.png" alt="Team Member One" width="1000">
 
 ### Sam Harding
-
 I took inspiration from well known student fashion brands such as Carhartt, Nike etc. I've opted for a variety of colours however they are all fairly light to enable the outfits to take the centre of attention. 
+
 ---
 
 ## Team Moodboard
