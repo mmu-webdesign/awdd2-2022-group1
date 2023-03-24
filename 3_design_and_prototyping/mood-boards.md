@@ -50,7 +50,9 @@ I took inspiration from well known student fashion brands such as Carhartt, Nike
 
 <img src="sp3-media/Group Moodbard.png" alt="Team Member One" width="1000">
 
-### Name of team member
-Explain how you combined your influences and inspirations to create a group vision through this moodboard.
+### Group 1
+
+As a group we each made an individual moodboard, When then came together to agree on the colour scheme for our website. We agreed on simplistic style, allowing the focus to be on content of the site. We then consolidated our inspirations for the site, and agreed on a set of images which best encapulated our ideas for future content.
+
 
 ---
