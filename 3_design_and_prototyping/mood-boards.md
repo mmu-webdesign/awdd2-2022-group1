@@ -41,8 +41,8 @@ Explain how your personal influences and inspirations for this moodboard.
 
 <img src="sp3-media/MoodboardSH.png" alt="Team Member One" width="1000">
 
-### Name of team member
-Sam Harding
+### Sam Harding
+
 I took inspiration from well known student fashion brands such as Carhartt, Nike etc. I've opted for a variety of colours however they are all fairly light to enable the outfits to take the centre of attention. 
 ---
 
