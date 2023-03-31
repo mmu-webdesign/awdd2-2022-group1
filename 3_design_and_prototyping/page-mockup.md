@@ -12,3 +12,6 @@ Leon's Low-Fidelity Wireframe ideas
 ## High Fidelity mock-up
 
 Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
+
+Leon's High-Fidelity Wireframe idea for mobile home view with hamburger navigation and footer
+<img src="sp3-media/leon-hifi-mobile.png" alt="Leon's High-fidelity wireframe idea" width="1000">
