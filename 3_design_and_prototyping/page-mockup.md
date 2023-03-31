@@ -10,7 +10,7 @@ Leon's Low-Fidelity Wireframe ideas
 <img src="sp3-media/leon-lofi.jpg" alt="Leon's Low-fidelity wireframe idea" width="1000">
 
 Sam H's Low-Fidelity Wireframe ideas
-<img src="sp3-media/LowFidelitySH.png">
+<img src="sp3-media/LowFidelitySH.png" width="1000">
 
 Sam's Low-Fidelity Wireframe ideas
 <img src="sp3-media/Low-fi page mockup ss.png" alt="Leon's Low-fidelity wireframe idea" width="1000">
