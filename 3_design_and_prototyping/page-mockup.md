@@ -9,6 +9,12 @@ Please add at least one artefact per group member related to the exploration of 
 Leon's Low-Fidelity Wireframe ideas
 <img src="sp3-media/leon-lofi.jpg" alt="Leon's Low-fidelity wireframe idea" width="1000">
 
+
+
+Sam's Low-Fidelity Wireframe ideas
+<img src="sp3-media/Low-fi page mockup ss.png" alt="Leon's Low-fidelity wireframe idea" width="1000">
+
+
 ## High Fidelity mock-up
 
 Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
