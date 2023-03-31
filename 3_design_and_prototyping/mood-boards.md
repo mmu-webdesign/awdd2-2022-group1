@@ -29,6 +29,17 @@ I took inspiration from other famous related fashion websites, such as Vogue, As
 
 ---
 
+## Moodboard Three
+
+<img src="sp3-media/leon-moodboard.png" alt="Leon's moodboard" width="1000">
+
+### Leon Haffie-Hobday
+Most student fashion takes inspiration from brands such as Carhartt, Dickies, alongside music, specifically rave culture. It features lots of earthy tones, and I have captured the contrast between the sleek, colourless web structures and the images that they use. The images in these sites are where the colour comes from, to draw attention to the colours and the fashion design of the artists involved.
+
+
+
+---
+
 ## Moodboard Four
 
 <img src="sp3-media/MoodboardSH.png" alt="Team Member One" width="1000">
