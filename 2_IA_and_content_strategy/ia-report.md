@@ -6,8 +6,6 @@
 
 ### Introduction
 
-Illustrated account of your process.
-
 
 As a group we had a discussion around the basis of what we wanted to feature on our website. Initially we decided on the specific type of content to include on our website. Next, we collectively came up with 20 Generic examples of the possible content on the Fallowfield Fashion website.
 
