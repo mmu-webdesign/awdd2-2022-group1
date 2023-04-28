@@ -71,7 +71,7 @@ As the purpose of this exercise is to find the best categorises to group our con
 
 The results collected from the study, were displayed in the results section of the study-homepage. The result was the categorises the 5 participants decide to group the 20 card elements under. 
 
-Through the results of the study, we saw a consistent pattern in the categorisation of the card elements. For example, we had 4 card elements based on the time of year, Spring, Summer etc… All the participants named the category holding these 4 card elements a variation of the word seasons. 
+Through the results of the study, we saw a consistent pattern in the categorisation of the card elements. For example, we had 4 card elements based on the time of year, Spring, Summer etc… All the participants named the category holding these 4 card elements a variation of the word seasons. However, the studied shows some results we didnt expect, we made adjustments to the categories based on this.
 
 Based on the similarity of each proposed category, we condensed each elements assigned category down to 1 agreed name. 
 
@@ -101,8 +101,8 @@ As the purpose of this exercise is to discover if the current site architecture 
 ### Tree testing results
 
 
-Three participants have taken part in the study, all three participants were able to locate the 5 elements. Therefore, we draw the conclusion that the current architecture is easy to navigate and user friendly. 
+Three participants have taken part in the study, all three participants were able to locate the 5 elements. Therefore, we draw the conclusion that the current architecture is easy to navigate and user friendly.
 
-However, one participant gave the feedback that for some of the elements, although it was clear where they were located, it had taken 3 or 4 clicks. This from a user-friendly point of view, isn’t good. As we want the users to have as fewer clicks as possible.
+However, one participant gave feedback that for some of the elements, although it was clear where they were located, it had taken 3 or 4 clicks. This from a user-friendly point of view, isn’t good. As we want the users to have as fewer clicks as possible.
 
 ---
