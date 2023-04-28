@@ -15,15 +15,13 @@ We interviewed Matthew to get his views on fashion and and of things he would ex
 ### Caitlin's persona
 We interviewed Caitlin because she has an interest in fashion and wants to find out about the current trends in Fallowfield. She also fits our target audience as she is a student and lives in Fallowfield.
 
----
+
 
 <img src="sp2-media/Caitlin.jpg" alt="Persona Two" width="1000">
-
 
 ### Anna's persona
 We interviewed Anna to get her opinions of fashion and topics related to the project, along with her ability with technology and the way that she utilises it.
 
----
 
 <img src="sp2-media/anna-persona.jpg" alt="Persona Three" width="1000">
 
