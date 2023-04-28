@@ -16,7 +16,6 @@ As the purpose of this exercise is to find the best categorises to group our con
 
 
 
-_Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
 
 
 <img src="sp2-media/G1 20 card elements.png" alt="Card Elements" width="1000">
@@ -70,7 +69,6 @@ _Insert images/illustrations using `<img>` including photographic evidence of th
 
 ### Cart sort results
 
-Illustrated summary of your findings.
 
 The results collected from the study, were displayed in the results section of the study-homepage. The result was the categorises the 5 participants decide to group the 20 card elements under. 
 
@@ -85,7 +83,7 @@ Based on the similarity of each proposed category, we condensed each elements as
 
 ### Introduction
 
-Illustrated account of your process.
+
 
 Following the open card sort study, we used both the card the elements and the consolidated categorises to create a draft of the website’s architecture. 
 We used the 5 consolidated Categories from the study results, to be the main headings beneath the homepage in the site architecture. The end destinations were based on the 20 card elements we collectively thought of. 
@@ -97,14 +95,12 @@ As the purpose of this exercise is to discover if the current site architecture 
 
 ### Illustration of the architecture tested
 
-Show the architecture you are tree testing.
 
 
 <img src="sp2-media/G1 Tree testing.png" alt="Tree Testing" width="1000">
 
 ### Tree testing results
 
-Illustrated summary of your findings.
 
 Three participants have taken part in the study, all three participants were able to locate the 5 elements. Therefore, we draw the conclusion that the current architecture is easy to navigate and user friendly. 
 
