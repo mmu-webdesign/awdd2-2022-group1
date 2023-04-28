@@ -1,1 +1,45 @@
 * { border:1px solid red; }
+/* Dropdown Button */
+.dropbtn, .dropbtn2, .dropbtn3, .dropbtn4 {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: absolute;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .about-content, .Seasonal-content, .Location-content,.Social-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .about-content a, .Seasonal-content a, .Location-content a, .Social-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropbtn:hover .about-content {display: block;}
+  .dropbtn2:hover .Seasonal-content {display: block;}
+   .dropbtn3:hover .Social-content  {display: block;}
+    .dropbtn4:hover .Location-content {display: block;}
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn, .dropbtn2, .dropbtn3, .dropbtn4 {background-color: #3e8e41;}
