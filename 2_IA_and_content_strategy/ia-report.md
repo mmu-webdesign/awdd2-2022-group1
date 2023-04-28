@@ -1,6 +1,5 @@
 # Information Architecture Report
 
-**Word count** 800 words maximum
 
 ## Card sort
 
