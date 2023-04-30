@@ -1,128 +1,110 @@
-/* aboutus Button */
-.dropbtn {
-    background-color: #04AA6D;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  
-  /* The container <div> - needed to position the aboutus content */
-  .aboutus {
-    position: relative;
-    display: inline-block;
-  }
-  
-  /* aboutus Content (Hidden by Default) */
-  .aboutus-content {
-    display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  /* Links inside the aboutus */
-  .aboutus-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  /* Change color of aboutus links on hover */
-  .aboutus-content a:hover {background-color: #ddd;}
-  
-  /* Show the aboutus menu on hover */
-  .aboutus:hover .aboutus-content {display: block;}
-  
-  /* Change the background color of the aboutus button when the aboutus content is shown */
-  .aboutus:hover .dropbtn {background-color: #3e8e41;}
+body {
+  margin: 0;
+}
 
-  /* menu 2 */ 
-  /* Navbar container */  
-  /* The Seasonal container */
-  /* Seasonal Button */
-.dropbtn1 {
-    background-color: #04AA6D;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  
-  /* The container <div> - needed to position the Seasonal content */
-  .Seasonal {
-    position: relative;
-    display: inline-block;
-  }
-  
-  /* Seasonal Content (Hidden by Default) */
-  .Seasonal-content {
-    display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  /* Links inside the Seasonal */
-  .Seasonal-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
+nav {
+  background-color: #000;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: relative;
+}
+
+.nav-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.logo a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+}
+
+.menu-toggle span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: #fff;
+  margin: 5px;
+}
+
+.nav-menu {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu li {
+  list-style-type: none;
+  margin: 0 10px;
+}
+
+.nav-menu a {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-menu a:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+@media screen and (max-width: 768px) {
+  .menu-toggle {
     display: block;
   }
-  
-  /* Change color of Seasonal links on hover */
-  .Seasonal-content a:hover {background-color: #ddd;}
-  
-  /* Show the Seasonal menu on hover */
-  .Seasonal:hover .Seasonal-content {display: block;}
-  
-  /* Change the background color of the Seasonal button when the Seasonal content is shown */
-  .Seasonal:hover .dropbtn1 {background-color: #3e8e41;}
-  /*Menu 3*/ 
-  /* Location Button */
-.Locationbtn {
-    background-color: #04AA6D;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  
-  /* The container <div> - needed to position the Location content */
-  .Location {
-    position: relative;
-    display: inline-block;
-  }
-  
-  /* Location Content (Hidden by Default) */
-  .Location-content {
+
+  .nav-menu {
     display: none;
+    flex-direction: column;
     position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #000;
+    padding: 10px 0;
   }
-  
-  /* Links inside the Location */
-  .Location-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
+
+  .nav-menu li {
+    margin: 10px 0;
   }
-  
-  /* Change color of Location links on hover */
-  .Location-content a:hover {background-color: #ddd;}
-  
-  /* Show the Location menu on hover */
-  .Location:hover .Location-content {display: block;}
-  
-  /* Change the background color of the Location button when the Location content is shown */
-  .Location:hover .Locationbtn {background-color: #3e8e41;}
+
+  .nav-menu a {
+    color: #fff;
+  }
+
+  .nav-menu a:hover {
+    color: #000;
+  }
+
+  .menu-toggle.active+.nav-menu {
+    display: flex;
+  }
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #000;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
