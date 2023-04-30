@@ -1,3 +1,4 @@
+<?php include 'navbar.php'; ?>
 <!DOCTYPE html>
 
 <head>
@@ -13,36 +14,7 @@
 </head>
 
 <body>
-  <nav>
-    <div class="nav-wrapper">
-      <div class="logo"><a href="#">Fallowfield Fashion</a></div>
-      <div class="menu-toggle">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-      <ul class="nav-menu">
-        <li><a href="#">Locations</a></li>
-        <li class="dropdown">
-          <a href="#">Seasonal</a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Spring</a></li>
-            <li><a href="#">Summer</a></li>
-            <li><a href="#">Autumn</a></li>
-            <li><a href="#">Winter</a></li>
-          </ul>
-        </li>
-        <li><a href="#">News</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Trends</a></li>
-      </ul>
-    </div>
-  </nav>
-  <nav>
-    <ul>
 
-    </ul>
-  </nav>
   <div class="welcome-main">
     <h1></h1>
     <img src="Welcome-page.jpg"
@@ -53,6 +25,14 @@
     <h2>About Me</h2>
     <p>We showcase the latest fallowfield fashions!</p>
   </div>
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+
+    menuToggle.addEventListener('click', () => {
+      navMenu.classList.toggle('active');
+    });
+  </script>
 </body>
 <footer class="footer">
   <div class="copy">&copy; 2023 Group One</div>
