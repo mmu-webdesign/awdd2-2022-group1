@@ -66,22 +66,24 @@ nav {
 
 .dropdown-menu {
   display: none;
-  position: absolute;
-  background-color: #000;
-  border: 1px solid #ccc;
-  padding: 10px;
 }
 
 .dropdown:hover .dropdown-menu {
   display: block;
 }
 
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  background-color: #000;
-  border: 1px solid #ccc;
-  padding: 10px;
+@media screen and (min-width: 769px) {
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #000;
+    border: 1px solid #ccc;
+    padding: 0;
+  }
+
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -115,8 +117,12 @@ nav {
   .nav-menu.active {
     display: flex;
   }
-}
 
-.dropdown:hover .dropdown-menu {
-  display: block;
+  .dropdown-menu {
+    display: none;
+  }
+
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
 }
