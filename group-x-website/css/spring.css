@@ -1,0 +1,120 @@
+.summer-logo{
+
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5)), url("images\spring-head.jpg");
+
+    height: 80%;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    position: relative;
+
+    text-align: center;
+
+    color: white;
+
+    padding: 5%;
+
+}
+
+ 
+
+body {
+
+  font-family: 'Roboto', sans-serif;
+
+  box-sizing: border-box;
+
+  background-color: rgb(0, 0, 0);
+
+  display: inline;
+
+  width: auto;
+
+  height: auto;
+
+  padding: auto;
+
+  text-align: center;
+
+  height: 100%;
+
+  letter-spacing: 0.1em;
+
+  line-height: auto;
+
+}
+
+p{
+
+    color: white;
+
+    text-align: central;
+
+    padding: 5px; 
+
+}
+
+ 
+
+.circular-pic{
+
+    border-radius: 50%;
+
+    background: #ffffff;
+
+}
+
+ 
+
+.fa {
+
+    padding: 10px;
+
+    font-size: 20px;
+
+    width: 50px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+  }
+
+ 
+
+  /* Set a specific color for each brand */
+
+ 
+
+  /* Facebook */
+
+  .fa-facebook {
+
+    background: #0247dc;
+
+    color: white;
+
+    display: inline;
+
+  }
+
+ 
+
+  /* Twitter */
+
+  .fa-twitter {
+
+    background: #55ACEE;
+
+    color: white;
+
+    display: inline;
+
+  }
+  footer{
+    padding: 10px; 
+  }
