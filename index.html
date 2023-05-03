@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 
 <head>
-  <html lang="en">
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Group One">
   <meta name="description" content="A Manchester student's guide to Fallowfield Fashion.">
   <link rel="stylesheet" href="css/website.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:wght@300&display=swap"
+    rel="stylesheet">
   <title>Fallowfield Fashion</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:wght@300&display=swap');
-  </style>
 </head>
 
 <body>
 
   <nav>
     <div class="nav-wrapper">
-      <img src="img/logo.jpg">
+      <a href="#" class="logo">
+        <img src="img/logo.jpg">
+      </a>
       <div class="logo"><a href="#"></a></div>
       <div class="menu-toggle">
         <span></span>
@@ -46,6 +46,16 @@
       <h1>Garments from the heart of 0161.</h1>
     </div>
   </section>
+  <section class="about-us">
+    <div class="container">
+      <p>You've found the ultimate fashion guide for students looking to rock the Fallowfield vibe and discover fresh
+        style options. </br>
+        We've got you covered with all the tips and tricks you
+        need to fit in and stand out.
+        </br> Whether you're new to the neighborhood or a seasoned local, kick back, relax,
+        and let us show you the way.</p>
+    </div>
+  </section>
   <div class="article-columns">
     <div class="article-column">
       <a href="#">
@@ -72,20 +82,21 @@
       </a>
     </div>
   </div>
-  <div class="body-wrapper">
-    <div class="welcome-main">
-      <h1>New in</h1>
-      <img src="img/Welcome-page.jpg"
-        alt="Fallowfield Redbrick reference - Long exposure image capture in central Manchester (n.d.) iStock. [Online] [Accessed on 28th April 2023] https://www.istockphoto.com/photo/long-exposure-image-capture-in-central-manchester-gm1432905000-475002543?phrase=manchester."
-        style="width:100%">
-    </div>
-    <div class="about-me-text">
-      <h2>About Me</h2>
-      <p>We showcase the latest fallowfield fashions!</p>
-    </div>
 
-  </div>
+  <script>
+    // Select the menu toggle button and navigation menu
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
 
+    // Add a click event listener to the menu toggle button
+    menuToggle.addEventListener('click', () => {
+      // Toggle the 'active' class on the menu toggle button
+      menuToggle.classList.toggle('active');
+
+      // Toggle the 'active' class on the navigation menu
+      navMenu.classList.toggle('active');
+    });
+  </script>
 </body>
 <footer>
   <div class="footer-wrapper">
