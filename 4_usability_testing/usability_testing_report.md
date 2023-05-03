@@ -47,7 +47,7 @@ Scan your completed notes as a single pdf, add to the sp4-media folder and link 
 
 ## Exit survey
 
-> Download -[Completed exit survey](sp4-media/exit-survey.pdf).
+> Download -[Completed exit survey](sp4-media/exit-form.pdf).
 
 Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
 
