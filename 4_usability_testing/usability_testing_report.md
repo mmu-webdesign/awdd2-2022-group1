@@ -53,7 +53,10 @@ Scan your completed survey as a single pdf, add to the sp4-media folder and link
 
 ## Consent form(s)
 
-> Download -[Completed consent form(s)](sp4-media/exit-survey.pdf).
+> Download -[Completed consent form(s) - Sally](sp4-media/consent-form-sally.pdf).
+> Download -[Completed consent form(s) - George](sp4-media/consent-form-george.pdf).
+> Download -[Completed consent form(s) - Will](sp4-media/consent-form-billy.pdf).
+> Download -[Completed consent form(s) - Alvio](sp4-media/consent-form-alvio.pdf).
 
 Scan your completed consent form(s) as a single pdf, add to the sp4-media folder and link above.
 
