@@ -1,0 +1,123 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+
+    box-sizing: border-box;
+
+    background-color: rgb(0, 0, 0);
+
+    display: inline;
+
+    width: auto;
+
+    height: auto;
+
+    padding: auto;
+
+    text-align: center;
+
+    height: 100%;
+
+    letter-spacing: 0.1em;
+
+    line-height: auto;
+
+   
+
+  }
+
+  /* Header */
+
+  .locations-logo{
+
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5)), url("images\summerhead.jpg");
+
+    height: 80%;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    position: relative;
+
+    text-align: center;
+
+    color: white;
+
+  }
+
+  /*image section */
+
+  .row {
+
+    display: flex;
+
+  }
+
+ 
+
+  .column {
+
+    flex: 33.33%;
+
+    padding: 5%;
+
+    color: white;
+
+  }
+
+ /* social icons */
+
+  .fa {
+
+    padding: 5px;
+
+    font-size: 15px;
+
+    width: 50px;
+
+    text-align: center;
+
+  }
+
+ 
+
+  .fa-facebook {
+
+    background: #0247dc;
+
+    color: white;
+
+    display: inline;
+
+  }
+
+ 
+
+  .fa-twitter {
+
+    background: #55ACEE;
+
+    color: white;
+
+    display: inline;
+
+  }
+
+/* text */
+
+  p{
+
+    color: white;
+
+  }
+
+/* footer */
+
+  .footer{
+
+    padding: 5px;
+
+  }
