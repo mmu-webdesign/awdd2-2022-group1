@@ -25,9 +25,9 @@
         <span></span>
       </div>
       <ul class="nav-menu">
-        <li><a href="#">Locations</a></li>
+        <li><a href="#">News</a></li>
         <li class="dropdown">
-          <a href="#">Seasonal</a>
+          <a href="#">Seasons</a>
           <ul class="dropdown-menu">
             <li><a href="#">Spring</a></li>
             <li><a href="#">Summer</a></li>
@@ -35,12 +35,43 @@
             <li><a href="#">Winter</a></li>
           </ul>
         </li>
-        <li><a href="#">News</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="#">Locations</a></li>
         <li><a href="#">Trends</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
     </div>
   </nav>
+  <section class="hero">
+    <div class="hero-wrapper">
+      <h1>Garments from the heart of 0161.</h1>
+    </div>
+  </section>
+  <div class="article-columns">
+    <div class="article-column">
+      <a href="#">
+        <img src="img/column.jpg" alt="Article 1">
+        <div class="article-overlay">
+          <span>Go to article</span>
+        </div>
+      </a>
+    </div>
+    <div class="article-column">
+      <a href="#">
+        <img src="img/column.jpg" alt="Article 2">
+        <div class="article-overlay">
+          <span>Go to article</span>
+        </div>
+      </a>
+    </div>
+    <div class="article-column">
+      <a href="#">
+        <img src="img/column.jpg" alt="Article 3">
+        <div class="article-overlay">
+          <span>Go to article</span>
+        </div>
+      </a>
+    </div>
+  </div>
   <div class="body-wrapper">
     <div class="welcome-main">
       <h1>New in</h1>
@@ -52,47 +83,28 @@
       <h2>About Me</h2>
       <p>We showcase the latest fallowfield fashions!</p>
     </div>
+
   </div>
-  <script>
-    const menuToggle = document.querySelector('.menu-toggle');
-    const navMenu = document.querySelector('.nav-menu');
 
-    menuToggle.addEventListener('click', () => {
-      navMenu.classList.toggle('active');
-    });
-
-    const carouselWrapper = document.querySelector('.carousel-wrapper');
-    const carouselPrev = document.querySelector('.carousel-prev');
-    const carouselNext = document.querySelector('.carousel-next');
-    let currentIndex = 0;
-
-    function updateCarousel() {
-      carouselWrapper.style.transform = `translateX(-${currentIndex * 25}%)`;
-    }
-
-    carouselPrev.addEventListener('click', () => {
-      if (currentIndex > 0) {
-        currentIndex--;
-        updateCarousel();
-      }
-    });
-
-    carouselNext.addEventListener('click', () => {
-      if (currentIndex < 3) {
-        currentIndex++;
-        updateCarousel();
-      }
-    });
-  </script>
 </body>
-<footer class="footer">
-  <div class="copy">&copy; 2023 Group One</div>
-  <div class="bottom-links">
-    <div class="links">
-      <span>Social Links</span>
-      <a href="#"><i class="fab fa-facebook"></i></a>
-      <a href="#"><i class="fab fa-twitter"></i></a>
-      <a href="#"><i class="fab fa-instagram"></i></a>
+<footer>
+  <div class="footer-wrapper">
+    <div class="copy">&copy; 2023 Group One</div>
+    <form action="" method="post">
+      <div class="form-group">
+        <label for="email">Sign up for our newsletter:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+
+    <div class="bottom-links">
+      <div class="links">
+        <span>Social Links</span>
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
     </div>
   </div>
 </footer>
