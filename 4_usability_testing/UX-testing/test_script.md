@@ -33,7 +33,7 @@ Cool, so we're gonna give you a few things to do on this prototype you should be
 
 ## Tasks
 
-Okay so this is the landing page of the site.
+Okay so this is the landing page of the site. Can you quickly tell me your initial thoughts, what you think the site is about, purely from this screen?
 1- the first thing we want to do is to sign ourselves up for the site's mailing list. Can you show me how you think you might do that?
 2 - okay, next we want to see what kind of things we can get up to in Manchester each week. Can you tell me what event I can find on a Wednesday?
 3 - Stay on this page for the moment, how would you get back to the homepage if you needed to?
