@@ -1,30 +1,38 @@
 # Internationalisation
 
-<!-- edit as required -->
+Have chosen four main languages worldwide as this allows for the students of Manchester to either understand in a native language or one they speak comfortably. 
 
 ## Language One
 
-<img src="sp5-media/macos-safari.jpg" alt="" width="1000">
+<img src="sp5-media/chinese site.jpg" alt="" width="1000">
 
 ### Notes
-Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
+No issues present 
+
 
 ---
 
 ## Language Two
 
-<img src="sp5-media/macos-safari.jpg" alt="" width="1000">
+<img src="sp5-media/spanish site.jpg" alt="" width="1000">
 
 ### Notes
-Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
+No issues present 
 
 ---
 
 ## Language Three
 
-<img src="sp5-media/macos-safari.jpg" alt="" width="1000">
+<img src="sp5-media/french site.jpg" alt="" width="1000">
 
-### Notes
-Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
+No issues present 
+
+
+## Language Four
+
+<img src="sp5-media/site.jpg" alt="" width="1000">
+
+No issues present 
+
 
 ---
