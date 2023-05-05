@@ -1,52 +1,120 @@
 <!DOCTYPE html>
 
 <head>
-  <html lang="en">
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Group One">
   <meta name="description" content="A Manchester student's guide to Fallowfield Fashion.">
-  <link rel="stylesheet" href="C:\Users\Jack Forster\Documents\Year 3\Web Design\Website\HTML\Nav.css">
+  <link rel="stylesheet" href="css/website.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:wght@300&display=swap"
+    rel="stylesheet">
   <title>Fallowfield Fashion</title>
-  <style>
-  </style>
 </head>
+
 <body>
-    <div class="aboutus">
-        <button class="dropbtn">AboutUs</button>
-        <div class="aboutus-content">
-          <a href="#">Link 1</a>
-          <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
-        </div>
+
+  <nav>
+    <div class="nav-wrapper">
+      <a href="index.html" class="logo">
+        <img src="img/logo.jpg">
+      </a>
+      <div class="logo"><a href="#"></a></div>
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
       </div>
-    <div class="Seasonal">
-        <button class="dropbtn1">Seasonal</button>
-        <div class="Seasonal-content">
-          <a href="#">Link 7</a>
-          <a href="#">Link 9</a>
-          <a href="#">Link 3</a>
+      <ul class="nav-menu">
+        <li><a href="news.html">News</a></li>
+        <li class="dropdown">
+          <a href="#">Seasons</a>
+          <ul class="dropdown-menu">
+            <li><a href="spring.html">Spring</a></li>
+            <li><a href="summer.html">Summer</a></li>
+            <li><a href="autumn.html">Autumn</a></li>
+            <li><a href="winter.html">Winter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#">Locations</a>
+          <ul class="dropdown-menu">
+            <li><a href="shopping-locations.html">Where to shop</a></li>
+            <li><a href="nights-out.html">Nights out</a></li>
+          </ul>
+        </li>
+        <li><a href="trends.html">Trends</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  <section class="hero">
+    <div class="hero-wrapper">
+      <h1>Garments from the heart of 0161.</h1>
+    </div>
+  </section>
+  <section class="about-us">
+    <div class="container">
+      <p>You've found the ultimate fashion guide for students looking to rock the Fallowfield vibe and discover fresh
+        style options. </br>
+        We've got you covered with all the tips and tricks you
+        need to fit in and stand out.
+        </br> Whether you're new to the neighborhood or a seasoned local, kick back, relax,
+        and let us show you the way.</p>
+    </div>
+  </section>
+  <div class="article-columns">
+    <div class="article-column">
+      <a href="article.html">
+        <img src="img/column.jpg" alt="Article 1">
+        <div class="article-overlay">
+          <span>Go to article</span>
         </div>
-      </div>
-    <div class="Location">
-        <button class="Locationbtn">Locations</button>
-        <div class="Location-content">
-          <a href="#">Link 10</a>
-          <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
+      </a>
+    </div>
+    <div class="article-column">
+      <a href="article.html">
+        <img src="img/column.jpg" alt="Article 2">
+        <div class="article-overlay">
+          <span>Go to article</span>
         </div>
-      </div>
-      <div class="welcome-main">
-        <h1>FallowField Fashion</h1>
-        <img src="C:\Users\Jack Forster\Documents\Year 3\Web Design\Website\Images\Welcome-page.jpg" alt="Fallowfield Redbrick reference - Long exposure image capture in central Manchester (n.d.) iStock. [Online] [Accessed on 28th April 2023] https://www.istockphoto.com/photo/long-exposure-image-capture-in-central-manchester-gm1432905000-475002543?phrase=manchester." style="width:100%">');
+      </a>
+    </div>
+    <div class="article-column">
+      <a href="article.html">
+        <img src="img/column.jpg" alt="Article 3">
+        <div class="article-overlay">
+          <span>Go to article</span>
         </div>
-        <div class="about-me-text">
-            <h2>About Me</h2>
-            <p>We showcase the latest fallowfield fashions!</p>
-        </div>
+      </a>
+    </div>
+  </div>
+
+  <script>
+    // Select the menu toggle button and navigation menu
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+
+    // Add a click event listener to the menu toggle button
+    menuToggle.addEventListener('click', () => {
+      // Toggle the 'active' class on the menu toggle button
+      menuToggle.classList.toggle('active');
+
+      // Toggle the 'active' class on the navigation menu
+      navMenu.classList.toggle('active');
+    });
+  </script>
 </body>
-<footer class="footer">
-    <div class="copy">&copy; 2023 Developer</div>
+<footer>
+  <div class="footer-wrapper">
+    <div class="copy">&copy; 2023 Group One</div>
+    <form action="" method="post">
+      <div class="form-group">
+        <label for="email">Sign up for our newsletter:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+
     <div class="bottom-links">
       <div class="links">
         <span>Social Links</span>
@@ -55,5 +123,7 @@
         <a href="#"><i class="fab fa-instagram"></i></a>
       </div>
     </div>
-  </footer>
+  </div>
+</footer>
+
 </html>

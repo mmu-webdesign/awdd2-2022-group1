@@ -1,35 +1,129 @@
 <!DOCTYPE html>
-<html lang="en">
-<meta charset="UTF-8">
-<title>Page Title</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="\css\spring.css">
-  <link rel="preconnect" href=https://fonts.googleapis.com>
-  <link rel="preconnect" href=https://fonts.gstatic.com crossorigin>
-  <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap>
-  <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
-  <!-- reference is https://www.w3schools.com/howto/howto_css_social_media_buttons.asp -->
-<header>
-</header>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Group One">
+  <meta name="description" content="A Manchester student's guide to Fallowfield Fashion.">
+  <link rel="stylesheet" href="css/website.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:wght@300&display=swap"
+    rel="stylesheet">
+  <title>Spring Styles - Fallowfield Fashion</title>
+</head>
+
 <body>
-  <div class="spring-logo">
-    <h1>Spring</h1>
-    <p>Freshen up</p>
+
+  <nav>
+    <div class="nav-wrapper">
+      <a href="index.html" class="logo">
+        <img src="img/logo.jpg">
+      </a>
+      <div class="logo"><a href="#"></a></div>
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="nav-menu">
+        <li><a href="news.html">News</a></li>
+        <li class="dropdown">
+          <a href="#">Seasons</a>
+          <ul class="dropdown-menu">
+            <li><a href="spring.html">Spring</a></li>
+            <li><a href="summer.html">Summer</a></li>
+            <li><a href="autumn.html">Autumn</a></li>
+            <li><a href="winter.html">Winter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#">Locations</a>
+          <ul class="dropdown-menu">
+            <li><a href="shopping-locations.html">Where to shop</a></li>
+            <li><a href="nights-out.html">Nights out</a></li>
+          </ul>
+        </li>
+        <li><a href="trends.html">Trends</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  <section class="hero">
+    <div class="hero-wrapper">
+      <h1>Spring styles.</h1>
+    </div>
+  </section>
+  <section class="about-us">
+    <div class="container">
+      <p>You've found the ultimate fashion guide for students looking to rock the Fallowfield vibe and discover fresh
+        style options. </br>
+        We've got you covered with all the tips and tricks you
+        need to fit in and stand out.
+        </br> Whether you're new to the neighborhood or a seasoned local, kick back, relax,
+        and let us show you the way.</p>
+    </div>
+  </section>
+  <div class="article-columns">
+    <div class="article-column">
+      <a href="article.html">
+        <img src="img/column.jpg" alt="Article 1">
+        <div class="article-overlay">
+          <span>Go to article</span>
+        </div>
+      </a>
+    </div>
+    <div class="article-column">
+      <a href="article.html">
+        <img src="img/column.jpg" alt="Article 2">
+        <div class="article-overlay">
+          <span>Go to article</span>
+        </div>
+      </a>
+    </div>
+    <div class="article-column">
+      <a href="article.html">
+        <img src="img/column.jpg" alt="Article 3">
+        <div class="article-overlay">
+          <span>Go to article</span>
+        </div>
+      </a>
+    </div>
   </div>
-  <div class="main">
- <p>Spring should be a time to apply some colour to your wardrobe and keep your look fresh.</p>
- <p>It probably seemed trivial to most people, but it mattered to Tracey.
-  She wasn't sure why it mattered so much to her, but she understood deep within her being that it mattered to her. So for the 365th day in a row, Tracey sat down to eat pancakes for breakfast..</p>
- <img class="circular-pic" src="images\spring.jpg" alt="Spring Style">
-<p>This is available from asos <a href= www.asos.com></a>
-</p>
-<p> Please share here what you think
-  <a href=www.facebook.com class="fa fa-facebook"></a>
-  <a href=www.twitter.com class="fa fa-twitter"></a>
-</p>
-</div>
+
+  <script>
+    // Select the menu toggle button and navigation menu
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+
+    // Add a click event listener to the menu toggle button
+    menuToggle.addEventListener('click', () => {
+      // Toggle the 'active' class on the menu toggle button
+      menuToggle.classList.toggle('active');
+
+      // Toggle the 'active' class on the navigation menu
+      navMenu.classList.toggle('active');
+    });
+  </script>
 </body>
-<div class="footer">
-  <p>Footer Text</p>
-</div>
+<footer>
+  <div class="footer-wrapper">
+    <div class="copy">&copy; 2023 Group One</div>
+    <form action="" method="post">
+      <div class="form-group">
+        <label for="email">Sign up for our newsletter:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+
+    <div class="bottom-links">
+      <div class="links">
+        <span>Social Links</span>
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
 </html>
