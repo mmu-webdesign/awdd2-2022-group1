@@ -32,7 +32,7 @@ h1 {
   background-image: url(../img/hero.jpg);
   height: 80px;
   background-size: cover;
-  background-position: center top;
+  background-position: center;
   display: flex;
   align-items: center;
 }
@@ -46,13 +46,13 @@ h1 {
 .hero h1 {
   font-size: 48px;
   color: #eee;
-  text-shadow: 0px 2px 4px 0px #000000BF;
+  text-shadow: 0px 0px 5px #000000;
 }
 
 .hero-article h1 {
   font-size: 48px;
   color: #eee;
-  text-shadow: 0px 2px 4px 0px #000000BF;
+  text-shadow: 0px 0px 5px #000000;
 }
 
 .article-columns {

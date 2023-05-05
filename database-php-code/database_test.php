@@ -19,8 +19,6 @@ if (!$conn) {
 }
 
 // now we make some HTML
-
-?>
 <nav>
     <div class="nav-wrapper">
       <a href="index.html" class="logo">
@@ -55,6 +53,8 @@ if (!$conn) {
       </ul>
     </div>
   </nav>
+?>
+
 <?php 
 
 
