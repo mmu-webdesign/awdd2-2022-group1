@@ -4,12 +4,11 @@
 
 // your connection information goes here
 
-$server_name = "[your server IP]"; // the IP address, which is the third item in the 34sp phpMyAdmin login form
-$user_name = "[your db username]"; // the username you specified when you created the database
-$password = "[your db password]"; // the password you specified when you created the database
-$db_name = "[your db name]"; // the database name you specified when you created the database
-$table_name ="[your db table name]"; // the table name you specified when you created the SQL in SQLizer
-
+$HOST=aws.connect.psdb.cloud
+$USERNAME=tf67sa5ycgaqau9bcv6a
+$PASSWORD=************
+$DATABASE=websitedesign
+$table_name =News
 // STOP EDITING HERE: Upload this file to 34sp.com now
 
 // Create connection
