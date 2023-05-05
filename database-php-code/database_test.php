@@ -22,35 +22,40 @@ if (!$conn) {
 // now we make some HTML
 
 ?>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Database test page</title>
-    <style>@import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Inter', sans-serif; }
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
-  body {max-width: 1000px; margin: 0 auto; padding: 3em 1em;}
-h1 {font-size: 2em;}
-h1 span {color:red;}
-code {font-size: 1.1em; font-family:courier, monospace; color: #777;}
-ul {margin: 0; padding:0; list-style-type:none;}
-ul li {border-top:1px solid #ccc; padding-bottom: 2em;}
-ul li h2 {font-size: 1em; margin:0; padding:0.3em 0;}
-ul li code {font-size: 1em;}
-ul li textarea {border:0; background: #eee; padding: 0.3em;}
-ul li p {margin: 0;padding:0.3em 0; }
-ul li p+p {border-top:1px solid #eee;}
-}</style>
-
-</head>
-<body>
-
+<nav>
+    <div class="nav-wrapper">
+      <a href="index.html" class="logo">
+        <img src="img/logo.jpg">
+      </a>
+      <div class="logo"><a href="#"></a></div>
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="nav-menu">
+        <li><a href="news.html">News</a></li>
+        <li class="dropdown">
+          <a href="#">Seasons</a>
+          <ul class="dropdown-menu">
+            <li><a href="spring.html">Spring</a></li>
+            <li><a href="summer.html">Summer</a></li>
+            <li><a href="autumn.html">Autumn</a></li>
+            <li><a href="winter.html">Winter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#">Locations</a>
+          <ul class="dropdown-menu">
+            <li><a href="shopping-locations.html">Where to shop</a></li>
+            <li><a href="nights-out.html">Nights out</a></li>
+          </ul>
+        </li>
+        <li><a href="trends.html">Trends</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
 <?php 
 
 
