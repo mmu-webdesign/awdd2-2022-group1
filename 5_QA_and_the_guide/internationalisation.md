@@ -4,7 +4,7 @@ Have chosen four main languages worldwide as this allows for the students of Man
 
 ## Language One
 
-<img src="sp5-media/chinese site.jpg" alt="" width="1000">
+<img src="sp5-media/Chinese site.jpg" alt="" width="1000">
 
 ### Notes
 No issues present 
@@ -14,7 +14,7 @@ No issues present
 
 ## Language Two
 
-<img src="sp5-media/spanish site.jpg" alt="" width="1000">
+<img src="sp5-media/Spanish site.jpg" alt="" width="1000">
 
 ### Notes
 No issues present 
