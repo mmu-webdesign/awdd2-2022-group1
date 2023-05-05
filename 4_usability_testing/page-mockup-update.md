@@ -6,4 +6,4 @@ Annotate and explain the changes you have made, and tell us how these changes ma
 
 Inform us of any work that seems ‘out of scope’ - e.g. is too complex or would require a complete redesign.
 
-<img src="sp4-media/mockup-update" alt="Update to mockups based on feedback" width="1000">
+<img src="sp4-media/mockup-update.jpg" alt="Update to mockups based on feedback" width="1000">
