@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Group One">
+  <meta name="description" content="A Manchester student's guide to Fallowfield Fashion.">
+  <link rel="stylesheet" href="css/website.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:wght@300&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <title>News - Fallowfield Fashion</title>
+</head>
+
+<body>
+  <nav>
+    <div class="nav-wrapper">
+      <a href="index.html" class="logo">
+        <img src="img/logo.jpg">
+      </a>
+      <div class="logo"><a href="#"></a></div>
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="nav-menu">
+        <li><a href="news.html">News</a></li>
+        <li class="dropdown">
+          <a href="#">Seasons</a>
+          <ul class="dropdown-menu">
+            <li><a href="spring.html">Spring</a></li>
+            <li><a href="summer.html">Summer</a></li>
+            <li><a href="autumn.html">Autumn</a></li>
+            <li><a href="winter.html">Winter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#">Locations</a>
+          <ul class="dropdown-menu">
+            <li><a href="shopping-locations.html">Where to shop</a></li>
+            <li><a href="nights-out.html">Nights out</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  <section class="hero-article">
+    <div class="hero-wrapper">
+      <h1>Keep in step</h1>
+    </div>
+  </section>
+  <section class="about-us">
+    <div class="container">
+      <p>Feeling like a night out to strut your new garms?</br>
+        We've got you covered.</p>
+    </div>
+  </section>
+  <section class="news-list-container">
+    <div class="accordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header">Monday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">Tuesday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">Wednesday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">Thursday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">Friday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">Saturday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">Sunday</h2>
+        <div class="accordion-body">
+          <article class="article-sample">
+            <img class="news-img" src="../group-x-website/img/column.jpg" alt="Article 1">
+            <div>
+              <h2>Article 1 Title</h2>
+              <p>Brief description of Article 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script>
+    // Select the menu toggle button and navigation menu
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+
+    // Add a click event listener to the menu toggle button
+    menuToggle.addEventListener('click', () => {
+      // Toggle the 'active' class on the menu toggle button
+      menuToggle.classList.toggle('active');
+
+      // Toggle the 'active' class on the navigation menu
+      navMenu.classList.toggle('active');
+    });
+
+    const accordionHeaders = document.querySelectorAll('.accordion-header');
+
+    accordionHeaders.forEach(header => {
+      header.addEventListener('click', () => {
+        const accordionItem = header.parentElement;
+        accordionItem.classList.toggle('active');
+      });
+    });
+
+  </script>
+</body>
+<footer>
+  <div class="footer-wrapper">
+    <div class="copy">&copy; 2023 Group One</div>
+    <form action="" method="post">
+      <div class="form-group">
+        <label for="email">Sign up for our newsletter:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+
+    <div class="bottom-links">
+      <div class="links">
+        <span>Social Links</span>
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</html>
