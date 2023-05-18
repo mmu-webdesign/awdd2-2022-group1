@@ -42,5 +42,5 @@ The speed on the site was rated at 86% by checkbot on chrome this is due to comp
 Our text is puposely written in slang and short this is to suit our readers who would use these terms reguarly and want to read information quickly in this format. We believed from our user research this could build credibility between us and our users as this is how they would speak to friends therfore to some users outside of our targetted base may feel this format is wrong its an aim to put this information across like this. 
 
 ## SEO
-<img src="sp5-media/speed.jpg" alt="SEO report" width="1000">
+<img src="sp5-media/seo.jpg" alt="SEO report" width="1000">
 Checkbot scored at 70% which is a good score however I think this would have been higher if not for our news article pages these seem to drag us down as they were named article1,2,3 and 4 however it is difficult to give these unique names as the article will be changing reguarly however although we may miss out on unique titles and URLS on these pages the other pages of the website should draw the user in and the reguarly upgrade page description will optomise these further.
