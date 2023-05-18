@@ -14,7 +14,7 @@ No issues page seems to scale well and pictures load without altering quality.
 
 ### Windows - Chrome
 
-<img src="sp5-media/Wesbite chrome.jpg.jpg" alt="chrome screenshot" width="1000">
+<img src="sp5-media/Wesbite chrome.jpg" alt="chrome screenshot" width="1000">
 
 ### Notes
 
@@ -26,7 +26,7 @@ No issues page seems to scale well and pictures load without altering quality.
 
 ### Mac IOS - Safari
 
-<img src="sp5-media/ios.png" alt="IOS screenshot" width="">
+<img src="sp5-media/IOS.png" alt="IOS screenshot" width="">
 
 IOS safari worked great the website seemed to scale to the screen and went more condensed to be scrollable and readable which is exactly what we wanted. 
 
