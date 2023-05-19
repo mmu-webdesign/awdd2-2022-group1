@@ -16,40 +16,31 @@ We set the interviewee a series of tasks to complete using the mobile and deskto
 
 We then sorted the issues based on the freqency that they arose and the potential severity of the issue, for example if a user is unable to find the form to subscribe to emails, then we will lose retention of our potential audience base.
 
-1. What did you do?
- 
-3. Why did you do it?
-4. How did you do it?
+## Findings
+We found that in general, users liked the style of the site and that each page was consistent. This allowed users to quickly understand the layout of the site and build familarity.
 
-### Findings
+However there were a few issues that repeated across users that we interviewed. These are the issues that we would like to address during development of the site:
+-  Ability to fill in the form to subscribe to newsletter. As this is one of the key actions of the site, it is an issue that some users had difficulty locating the form.
+- Names of page headings. The heading 'Location' proved difficult - this is a screen that allows users to find places to shop and places to go out in the evening, so this is a key area.
+- Number of clicks to find social media icons. 
 
-(500 words)
-
-Discuss the key issues that have been identified (positive and negative). This must closely relate to your observations (in your notes) and any exit surveys.
-
-4. What did you find?
 
 ## Actions
-
-Detail the changes your group has decided on in response to the initial testing and any subsequent test sessions.
-
-Create an updated version of the page design and add this to the report.
+As a result of the issues found, we decided on a few actions to improve the usability of the site:
+- Add the subscription form to the footer of each page. During research, we found that users would quickly glance at the footer, so this is a good place to add a brief call to action that directs a user to subscribe to the newsletter.
+- Seperate the 'Where to buy' and 'Nights out' screens. The users had issue finding key information from the 'Locations' page as there was a lot of information on one single page, and it was not entirely relevant. We have decided to have a 'Locations' dropdown in which the user can select 'Where to shop' and 'Nights out' seperately.
+- Remove the social media icons. This caused issue during the testing, and we decided that the value added by having social media icons (the group does not have social media) was diminished by the usability issues we found when conducting testing.
 
 ## Results of further testing
 
-Any further testing should be evidenced (photographs, notes and actions). Tutors will not just accept _we did some more testing_.
+Further testing allowed us to uncover issues with the site's content including the repetition of images used. The final site will incorporate more vibrant imagery to contrast with the colour scheme of the site. In addition, we will attempt to provide and include icons from nights out and shopping locations to provide users with context to their decisions.
 
-<!-- ## Notes
-
+## Mini User Journey 
 > Download -[Mini User Journey](sp4-media/mini-user-journey.pdf) forms.
-
-Scan your completed notes as a single pdf, add to the sp4-media folder and link above. -->
 
 ## Exit survey
 
 > Download -[Completed exit survey](sp4-media/exit-form.pdf).
-
-Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
 
 ## Consent form(s)
 
@@ -57,7 +48,5 @@ Scan your completed survey as a single pdf, add to the sp4-media folder and link
 - Download -[Completed consent form(s) - George](sp4-media/consent-form-george.pdf).
 - Download -[Completed consent form(s) - Will](sp4-media/consent-form-billy.pdf).
 - Download -[Completed consent form(s) - Alvio](sp4-media/consent-form-alvio.pdf).
-
-Scan your completed consent form(s) as a single pdf, add to the sp4-media folder and link above.
 
 ---

@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Group One">
-  <meta name="description" content="A Manchester student's guide to Fallowfield Fashion.">
+  <meta name="description"
+    content="A Manchester student's guide to Fallowfield Fashion.contact and let us know what you think of the fashion and the site.">
   <link rel="stylesheet" href="css/website.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:wght@300&display=swap"
     rel="stylesheet">
@@ -16,9 +17,8 @@
   <nav>
     <div class="nav-wrapper">
       <a href="index.html" class="logo">
-        <img src="img/logo.jpg">
+        <img src="img/logo.jpg" alt="Fallowfield Fashion logo">
       </a>
-      <div class="logo"><a href="#"></a></div>
       <div class="menu-toggle">
         <span></span>
         <span></span>
@@ -58,13 +58,13 @@
     <div class="contact-form">
       <form>
         <label for="name">Your name:</label>
-        <input type="text" id="name" name="name">
+        <input type="text" id="name" name="name" required placeholder="John">
 
         <label for="email">Your email:</label>
-        <input type="email" id="email" name="email">
+        <input type="email" id="email" name="email" required placeholder="Smith">
 
         <label for="message">Your message:</label>
-        <textarea id="message" name="message"></textarea>
+        <textarea id="message" name="message" required placeholder="Message"></textarea>
 
         <button type="submit">Submit</button>
       </form>
@@ -89,23 +89,14 @@
 </body>
 <footer>
   <div class="footer-wrapper">
-    <div class="copy">&copy; 2023 Group One</div>
+    <div class="copy">&copy; 2023 Group One. Manchester Metropolitan University.</div>
     <form action="" method="post">
       <div class="form-group">
         <label for="email">Sign up for our newsletter:</label>
-        <input type="email" class="form-control" id="email" name="email" required>
+        <input type="email" class="form-control" id="email" name="email" required placeholder="example@email.com">
       </div>
       <button type="submit" class="btn btn-primary">Subscribe</button>
     </form>
-
-    <div class="bottom-links">
-      <div class="links">
-        <span>Social Links</span>
-        <a href="#"><i class="fab fa-facebook"></i></a>
-        <a href="#"><i class="fab fa-twitter"></i></a>
-        <a href="#"><i class="fab fa-instagram"></i></a>
-      </div>
-    </div>
   </div>
 </footer>
 
