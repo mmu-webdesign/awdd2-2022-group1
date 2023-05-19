@@ -16,7 +16,7 @@ We set the interviewee a series of tasks to complete using the mobile and deskto
 
 We then sorted the issues based on the freqency that they arose and the potential severity of the issue, for example if a user is unable to find the form to subscribe to emails, then we will lose retention of our potential audience base.
 
-### Findings
+## Findings
 We found that in general, users liked the style of the site and that each page was consistent. This allowed users to quickly understand the layout of the site and build familarity.
 
 However there were a few issues that repeated across users that we interviewed. These are the issues that we would like to address during development of the site:
