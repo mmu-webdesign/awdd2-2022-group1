@@ -35,6 +35,7 @@ As a result of the issues found, we decided on a few actions to improve the usab
 
 Further testing allowed us to uncover issues with the site's content including the repetition of images used. The final site will incorporate more vibrant imagery to contrast with the colour scheme of the site. In addition, we will attempt to provide and include icons from nights out and shopping locations to provide users with context to their decisions.
 
+## Mini User Journey 
 > Download -[Mini User Journey](sp4-media/mini-user-journey.pdf) forms.
 
 ## Exit survey
