@@ -15,7 +15,7 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 Objectives - 
 
-• To produce an intuitive and effective website - Need to change
+• To produce an intuitive and effective website
 
 • To showcase Fallowfield Fashion
 
