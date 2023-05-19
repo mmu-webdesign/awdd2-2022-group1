@@ -6,6 +6,7 @@ We interviewed a number of potential users to discover their habits and ideals f
 - Personality/Humour
 - Charity
 
+# User Profiles
 ---
 - Name: Matt
 - Age: 25
