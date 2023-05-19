@@ -3,7 +3,9 @@
 Use this area to show the updated version, incorporating changes made after user testing, of the page you originally created for SP3.
 # Changes made after user testing
 Annotate and explain the changes you have made, and tell us how these changes make the page or site easier to use, based on the data you have collected from users.
-# Changes to be made following further testing
-Inform us of any work that seems ‘out of scope’ - e.g. is too complex or would require a complete redesign.
 
+Inform us of any work that seems ‘out of scope’ - e.g. is too complex or would require a complete redesign.
+# New mock up
 <img src="sp4-media/mockup-update.jpg" alt="Update to mockups based on feedback" width="1000">
+
+# Changes to be made following further testing
