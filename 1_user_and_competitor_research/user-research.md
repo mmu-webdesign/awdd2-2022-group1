@@ -5,6 +5,7 @@ We interviewed a number of potential users to discover their habits and ideals f
 - Ease of use
 - Personality/Humour
 - Charity
+
 These profiles showcase the widerange of users that will use our websites and should provide us with a wealth of information to inform site design. 
 # User Profiles
 ---
