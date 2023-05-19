@@ -1,4 +1,11 @@
 # User Research
+# Summary of Findings
+
+We interviewed a number of potential users to discover their habits and ideals for the site. The main findings that we would like to incorporate into the site are:
+- Ease of use
+- Personality/Humour
+- Charity
+
 ---
 - Name: Matt
 - Age: 25
