@@ -5,7 +5,7 @@ We interviewed a number of potential users to discover their habits and ideals f
 - Ease of use
 - Personality/Humour
 - Charity
-
+These profiles showcase the widerange of users that will use our websites and should provide us with a wealth of information to inform site design. 
 # User Profiles
 ---
 - Name: Matt
@@ -103,16 +103,4 @@ We interviewed a number of potential users to discover their habits and ideals f
   - Somewhere to find new fashion trends that can be found in charity shops
   - New ideas for what to wear
 - - - 
-- Likes
 
-- Dislikes
-
-- Needs and goals
-
----
-
-These profiles showcase the widerange of users that will use our websites and should provide us with a wealth of information to inform site design. 
-
-Repeat the above profiles as needed. Each team member should add 2 or 3 to ensure you get a wide range of opinion.
-
-_Some teams have also undertaken quick surveys among friends to get some instant feedback on the type of guide you intend to create_.
